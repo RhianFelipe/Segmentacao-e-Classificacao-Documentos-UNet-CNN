@@ -17,8 +17,8 @@ Este repositório apresenta uma solução baseada em redes neurais convolucionai
 ### 3. Passo a Passo (dentro do Colab)
 
 1. Acesse o notebook que deseja utilizar:
-   - [Classificação de Documentos](https://colab.research.google.com/drive/1M4lEvT313MepnpC1xiNOJ6JVMONpvKFd?usp=sharing)
-   - [Segmentação de Documentos](https://colab.research.google.com/drive/1XZ0y2ZRSvIn-6lVXbkcWb1_6pezEvAvb?usp=sharing)
+   - [Segmentação de Documentos](https://colab.research.google.com/drive/1M4lEvT313MepnpC1xiNOJ6JVMONpvKFd?usp=sharing)
+   - [Classificação de Documentos](https://colab.research.google.com/drive/1XZ0y2ZRSvIn-6lVXbkcWb1_6pezEvAvb?usp=sharing)
 
 2. Os notebooks estão preparados para funcionar com os caminhos e estrutura dos dois datasets utilizados neste projeto.
 
